@@ -24,3 +24,4 @@ body {
     0% { transform: rotateY(0deg); }  /* Empieza sin rotación */
     100% { transform: rotateY(360deg); } /* Completa un giro completo en 360 grados */
 }
+
